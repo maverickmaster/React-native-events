@@ -17,7 +17,7 @@ function EventsHomeScreen({ navigation }) {
 function EventsSecondScreen() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Events second screen!</Text>
+      <Text>Event second screen!</Text>
     </View>
   );
 }

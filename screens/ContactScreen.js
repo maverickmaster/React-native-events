@@ -28,7 +28,7 @@ const contactsData = [
   },
   {
     name: "Adam ellis",
-    title: "CTO",
+    title: "C0O",
     company: "Baskets of Biskits",
     pic: "https://randomuser.me/portraits/men/2.jpg",
   },
